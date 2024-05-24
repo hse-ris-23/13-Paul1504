@@ -94,7 +94,7 @@ namespace TestT1
         }
 
         [TestMethod]
-        public void ShallowClone_CreatesShallowCopy()
+        public void ShallowClone()
         {
             Vehicle item1 = new Vehicle();
             Vehicle item2 = new Vehicle();
