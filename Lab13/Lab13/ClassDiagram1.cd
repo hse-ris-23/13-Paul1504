@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab13.CollectionHandlerEventArgs">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CollectionHandlerEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab13.Journal">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jornal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab13.JournalEntry">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAgAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JournalEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab13.JournalExtensions">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JournalExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T4.MyCollection&lt;T&gt;">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="T4.MyCollection&lt;T&gt;.CollectionHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAEUAAAAAAAAQDAAAJAQAAIAMAAAEAAAAAABUIQA=</HashCode>
+      <FileName>MyCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab13.MyObservableCollection&lt;T&gt;">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAAAAAAAIACAAABAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyObservableCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T4.Point&lt;T&gt;">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAABAAAEAAAAAAAAA=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
